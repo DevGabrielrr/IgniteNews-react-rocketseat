@@ -5,6 +5,9 @@
 
 [![Imagem do projeto](src/img/IgniteNews.png)](src/img/IgniteNews.mp4)
 
+## Veja o projeto online
+🚀 <a href="https://ignite-news-react-rocketseat.vercel.app/">Link do projeto online</a>
+
 ### Tecnologias Utilizadas
 
 - React com Vite: ^18.3.1
