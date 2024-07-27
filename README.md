@@ -26,7 +26,7 @@
 npm i phosphor-react
 ```
 
-Biblioteca para formatação de datas e calcular distancias entre datas
+Biblioteca para formatação de datas e calcular distancias entre datas:
 
 ```
 npm i date-fns
