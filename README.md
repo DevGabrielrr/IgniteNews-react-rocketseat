@@ -3,7 +3,7 @@
 
 ## Neste projeto, desenvolvemos uma aplicação web interativa utilizando React para criar um sistema completo de comentários, curtidas e depoimentos. O sistema é projetado para simular as funcionalidades de um blog moderno, oferecendo uma interface rica e dinâmica para a interação dos usuários.
 
-<video controls src="src/img/IgniteNews.mp4" title="Title"></video>
+[![Imagem do projeto](src/img/IgniteNews.png)](src/img/IgniteNews.mp4)
 
 ### Tecnologias Utilizadas
 
