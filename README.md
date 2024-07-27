@@ -1,8 +1,61 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Projeto Ignite News | Rocketseat
 
-Currently, two official plugins are available:
+## Neste projeto, desenvolvemos uma aplicação web interativa utilizando React para criar um sistema completo de comentários, curtidas e depoimentos. O sistema é projetado para simular as funcionalidades de um blog moderno, oferecendo uma interface rica e dinâmica para a interação dos usuários.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<video controls src="IgniteNews.mp4" title="Title"></video>
+
+### Tecnologias Utilizadas
+
+- React com Vite: ^18.3.1
+
+### Funcionalidades
+
+- Sistema de Comentários: Permite que os usuários adicionem comentários em posts, com a possibilidade de  excluir os comentários que fizeram.
+
+- Curtidas: Os usuários podem curtir comentários e posts, proporcionando uma maneira de mostrar aprovação ou popularidade.
+
+- Interface Intuitiva: Utiliza React para criar uma experiência de usuário fluida e responsiva, com atualização em tempo real das interações.
+
+### Bibliotecas
+
+Biblioteca de icones para o projeto: https://phosphoricons.com/
+
+```
+npm i phosphor-react
+```
+
+Biblioteca para formatação de datas e calcular distancias entre datas
+
+```
+npm i date-fns
+```
+
+### Como Executar o Projeto
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/DevGabrielrr/IgniteNews-react-rocketseat.git
+   ```
+
+2. Navegue até o diretório do projeto:
+
+   ```bash
+   cd nome-do-repositorio
+   ```
+
+3. Atualize o projeto, Em seu terminal e na pasta do projeto
+
+   ```bash
+   npm install
+   ```
+
+4. Rodar o projeto
+
+   ```bash
+   npm run dev
+   ```
+
+
+
