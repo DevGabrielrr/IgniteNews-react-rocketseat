@@ -3,7 +3,7 @@
 
 ## Neste projeto, desenvolvemos uma aplicação web interativa utilizando React para criar um sistema completo de comentários, curtidas e depoimentos. O sistema é projetado para simular as funcionalidades de um blog moderno, oferecendo uma interface rica e dinâmica para a interação dos usuários.
 
-<video controls src="IgniteNews.mp4" title="Title"></video>
+<video controls src="src/img/IgniteNews.mp4" title="Title"></video>
 
 ### Tecnologias Utilizadas
 
@@ -17,7 +17,7 @@
 
 - Interface Intuitiva: Utiliza React para criar uma experiência de usuário fluida e responsiva, com atualização em tempo real das interações.
 
-### Bibliotecas
+### 📦 Bibliotecas
 
 ```
 npm i phosphor-react
@@ -29,7 +29,7 @@ Biblioteca para formatação de datas e calcular distancias entre datas
 npm i date-fns
 ```
 
-### Como Executar o Projeto
+### 🛠️ Como Executar o Projeto
 
 1. Clone o repositório:
 
