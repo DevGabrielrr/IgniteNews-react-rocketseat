@@ -19,8 +19,6 @@
 
 ### Bibliotecas
 
-Biblioteca de icones para o projeto: https://phosphoricons.com/
-
 ```
 npm i phosphor-react
 ```
